@@ -266,7 +266,7 @@ ujson = ["ujson (>=5.7.0)"]
 
 [[package]]
 name = "cdk-ecr-deployment"
-version = "3.0.43"
+version = "3.0.48"
 description = "CDK construct to deploy docker image to Amazon ECR"
 optional = false
 python-versions = "~=3.8"
