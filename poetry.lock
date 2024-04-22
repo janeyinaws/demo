@@ -266,13 +266,13 @@ ujson = ["ujson (>=5.7.0)"]
 
 [[package]]
 name = "cdk-ecr-deployment"
-version = "2.5.41"
+version = "3.0.43"
 description = "CDK construct to deploy docker image to Amazon ECR"
 optional = false
 python-versions = "~=3.8"
 files = [
-    {file = "cdk-ecr-deployment-2.5.41.tar.gz", hash = "sha256:10c915b560e2617b85159d8eaa345e771e135c5eb0c6c7cdc00052e17e0bb1f1"},
-    {file = "cdk_ecr_deployment-2.5.41-py3-none-any.whl", hash = "sha256:bd7d97320bdc597cd546f57b3cc2537f8195c09a8c58b7dc52032c56495f256a"},
+    {file = "cdk-ecr-deployment-3.0.43.tar.gz", hash = "sha256:10c915b560e2617b85159d8eaa345e771e135c5eb0c6c7cdc00052e17e0bb1f1"},
+    {file = "cdk_ecr_deployment-3.0.43-py3-none-any.whl", hash = "sha256:bd7d97320bdc597cd546f57b3cc2537f8195c09a8c58b7dc52032c56495f256a"},
 ]
 
 [package.dependencies]
