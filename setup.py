@@ -22,7 +22,7 @@ setuptools.setup(
         "aws-cdk-lib==^2.46.0",
         "aws-cdk.aws-lambda-python-alpha==^2.46.0-alpha.0",
         "boto3==^1.24.0",
-        "cdk-ecr-deployment==^2.5.6",
+        "cdk-ecr-deployment==3.0.43",
         "constructs==^10.0.101",
         "sagemaker>=2.87,<3",
     ],
