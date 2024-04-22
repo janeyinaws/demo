@@ -271,8 +271,8 @@ description = "CDK construct to deploy docker image to Amazon ECR"
 optional = false
 python-versions = "~=3.8"
 files = [
-    {file = "cdk-ecr-deployment-3.0.43.tar.gz", hash = "sha256:10c915b560e2617b85159d8eaa345e771e135c5eb0c6c7cdc00052e17e0bb1f1"},
-    {file = "cdk_ecr_deployment-3.0.43-py3-none-any.whl", hash = "sha256:bd7d97320bdc597cd546f57b3cc2537f8195c09a8c58b7dc52032c56495f256a"},
+    {file = "cdk-ecr-deployment-3.0.48.tar.gz", hash = "sha256:5c7e883894a5e7e52576e09b695d6814942ee1b58a6b0956cbeaceb13059088a"},
+    {file = "cdk_ecr_deployment-3.0.48-py3-none-any.whl", hash = "sha256:cf4ea6bfa93914821c29059513ea94da24bb852b9e0a30013874dda0aa8e55d7"},
 ]
 
 [package.dependencies]
